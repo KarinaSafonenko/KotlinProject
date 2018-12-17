@@ -49,7 +49,7 @@ fun main(args: Array<String>) {
             "х" to "src/sounds/х.wav",
             "х'" to "src/sounds/хь.wav",
             "ц" to "src/sounds/ц.wav",
-            "ч" to "src/sounds/ч.wav",
+            "ч'" to "src/sounds/ч.wav",
             "ш" to "src/sounds/ш.wav",
             "щ" to "src/sounds/щ.wav",
             "ы" to "src/sounds/ы.wav",
